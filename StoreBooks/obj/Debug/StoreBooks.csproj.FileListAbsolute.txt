@@ -1,0 +1,6 @@
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Debug\StoreBooks.csprojAssemblyReference.cache
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Debug\StoreBooks.book.resources
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Debug\StoreBooks.Form1.resources
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Debug\StoreBooks.Properties.Resources.resources
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Debug\StoreBooks.csproj.GenerateResource.cache
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Debug\StoreBooks.csproj.CoreCompileInputs.cache

@@ -1,0 +1,26 @@
+CREATE TABLE [dbo].[Clientes] (
+    [Id_Cliente]         INT           IDENTITY (1, 1) NOT NULL,
+    [Nome_do_Cliente]     VARCHAR (200) NULL,
+    [Email_do_Cliente]    VARCHAR (200) NULL,
+    [Endereco_do_Cliente] VARCHAR (200) NULL,
+    [Cidade_do_Cliente]   VARCHAR (200) NULL,
+    [Estado_do_Cliente]   VARCHAR (100) NULL,
+    [Telefone_do_Cliente] VARCHAR (15)  NULL,
+   
+    PRIMARY KEY CLUSTERED ([Id_Clientes] ASC)
+);
+
+CREATE TABLE [dbo].[Livraria] (
+    [Id_livros]        INT           IDENTITY (1, 1) NOT NULL,
+    [Nome_do_livro]    VARCHAR (200) NULL,
+    [Autor_do_livro]   VARCHAR (200) NULL,
+    [Ano_do_livro]    VARCHAR (20)      NULL,
+    [Genero_do_livro]  VARCHAR (100) NULL,
+    [Editora_do_livro] VARCHAR (200) NULL,
+    [Status_do_livro]  CHAR (1)      NULL,
+    PRIMARY KEY CLUSTERED ([Id_Livros] ASC)
+);
+
+
+
+

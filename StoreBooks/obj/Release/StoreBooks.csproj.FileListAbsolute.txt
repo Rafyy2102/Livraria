@@ -1,0 +1,12 @@
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Release\StoreBooks.book.resources
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Release\StoreBooks.Properties.Resources.resources
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Release\StoreBooks.csproj.GenerateResource.cache
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Release\StoreBooks.csproj.CoreCompileInputs.cache
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Release\StoreBooks.csprojAssemblyReference.cache
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Release\StoreBooks.home.resources
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\bin\Release\StoreBooks.exe.config
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\bin\Release\StoreBooks.exe
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\bin\Release\StoreBooks.pdb
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Release\StoreBooks.exe
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Release\StoreBooks.pdb
+C:\Users\RafySan\source\repos\StoreBooks\StoreBooks\obj\Release\StoreBooks.client.resources
