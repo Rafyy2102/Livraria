@@ -46,17 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="book.cs">
+    <Compile Include="frmbook.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="book.Designer.cs">
-      <DependentUpon>book.cs</DependentUpon>
+    <Compile Include="frmbook.Designer.cs">
+      <DependentUpon>frmbook.cs</DependentUpon>
     </Compile>
-    <Compile Include="client.cs">
+    <Compile Include="frmclient.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="client.Designer.cs">
-      <DependentUpon>client.cs</DependentUpon>
+    <Compile Include="frmclient.Designer.cs">
+      <DependentUpon>frmclient.cs</DependentUpon>
     </Compile>
     <Compile Include="home.cs">
       <SubType>Form</SubType>
@@ -66,14 +66,15 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="book.resx">
-      <DependentUpon>book.cs</DependentUpon>
+    <EmbeddedResource Include="frmbook.resx">
+      <DependentUpon>frmbook.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="client.resx">
-      <DependentUpon>client.cs</DependentUpon>
+    <EmbeddedResource Include="frmclient.resx">
+      <DependentUpon>frmclient.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="home.resx">
       <DependentUpon>home.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
